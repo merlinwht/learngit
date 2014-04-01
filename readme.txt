@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My boss is a pig.
 Creating a new branch is quick and simple.
+new commit
