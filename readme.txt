@@ -1,1 +1,1 @@
-this is a teat.
+this is a test.
