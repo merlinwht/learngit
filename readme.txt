@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My boss is a pig.
 >>>>>>> 7cd8cfe41e4a6ec7e3d6ca3c0c52faa55be9f6a0
+new branch feature1
